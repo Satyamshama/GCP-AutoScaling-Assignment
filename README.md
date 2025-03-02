@@ -14,14 +14,14 @@ This repository contains Terraform scripts to deploy a Virtual Machine (VM) on *
 
 ---
 
-## 🚀 Prerequisites
+##  Prerequisites
 
 Before you begin, make sure you have:
 
-1️⃣ **Google Cloud Account** (Sign up at [console.cloud.google.com](https://console.cloud.google.com))  
-2️⃣ **Google Cloud SDK** installed ([Download here](https://cloud.google.com/sdk/docs/install))  
-3️⃣ **Terraform CLI** installed ([Install Guide](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/install-cli))  
-4️⃣ **Billing Enabled** for your GCP project  
+1️**Google Cloud Account** (Sign up at [console.cloud.google.com](https://console.cloud.google.com))  
+2️ **Google Cloud SDK** installed ([Download here](https://cloud.google.com/sdk/docs/install))  
+3️ **Terraform CLI** installed ([Install Guide](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/install-cli))  
+4️**Billing Enabled** for your GCP project  
 
 ---
 
